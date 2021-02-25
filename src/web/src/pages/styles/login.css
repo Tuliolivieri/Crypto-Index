@@ -1,0 +1,16 @@
+#campos-login {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 40vw;
+    height: 50vh;
+
+    background-color: #5FE122;
+}
+
+#btn-login {
+    width: 150px;
+    height: 35px;
+}
